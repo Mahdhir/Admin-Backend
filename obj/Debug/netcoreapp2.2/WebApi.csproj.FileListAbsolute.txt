@@ -1,0 +1,14 @@
+/Users/mahdhirezvi/Ionic/Admin-Backend/bin/Debug/netcoreapp2.2/WebApi.deps.json
+/Users/mahdhirezvi/Ionic/Admin-Backend/bin/Debug/netcoreapp2.2/WebApi.runtimeconfig.json
+/Users/mahdhirezvi/Ionic/Admin-Backend/bin/Debug/netcoreapp2.2/WebApi.runtimeconfig.dev.json
+/Users/mahdhirezvi/Ionic/Admin-Backend/bin/Debug/netcoreapp2.2/WebApi.dll
+/Users/mahdhirezvi/Ionic/Admin-Backend/bin/Debug/netcoreapp2.2/WebApi.pdb
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.csprojAssemblyReference.cache
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.csproj.CoreCompileInputs.cache
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.RazorAssemblyInfo.cache
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.RazorAssemblyInfo.cs
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.AssemblyInfoInputs.cache
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.AssemblyInfo.cs
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.RazorTargetAssemblyInfo.cache
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.dll
+/Users/mahdhirezvi/Ionic/Admin-Backend/obj/Debug/netcoreapp2.2/WebApi.pdb
